@@ -25,3 +25,4 @@ If not, please let me know what you recommend in the cafeteria.
 8. ルーチェサンタルチア
 9. スシロー
 10. カルメシ茶屋
+11. まるかつ
